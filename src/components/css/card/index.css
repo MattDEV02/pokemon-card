@@ -1,0 +1,23 @@
+img {
+  height: 34vh !important;
+}
+
+ul {
+  font-weight: bold;
+  opacity: 0.75;
+}
+
+.card {
+  border: 3px solid #000000;
+  border-radius: 25% 0 0;
+}
+
+.card-body {
+  border: 2px solid #1606F2;
+  background-color: #DDD6D6;
+}
+
+.card-subtitle {
+  opacity: 0.8;
+}
+/*# sourceMappingURL=index.css.map */

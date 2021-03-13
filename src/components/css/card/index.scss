@@ -1,0 +1,28 @@
+$o: 1.0;
+$b: ($o + 2px) solid#000000;
+$r: 25%;
+$default: 0;
+
+
+img {
+   height: 34vh !important;
+}
+
+ul {
+   font-weight: bold;
+   opacity: ($o - 0.25);
+}
+
+.card {
+   border: $b;
+   border-radius: $r $default $default;
+}
+
+.card-body {
+   border: ($o + 1px) solid #1606F2;
+   background-color: #DDD6D6;
+}
+
+.card-subtitle {
+   opacity: ($o - 0.2);
+}
